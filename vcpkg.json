@@ -1,0 +1,11 @@
+{
+  "name": "cropgbc",
+  "version-string": "0.1.0-alpha",
+  "homepage": "https://github.com/anirul/crop_gbc/",
+  "description": "Crop image into a Game Bot Camera image.",
+  "dependencies": [
+    "abseil",
+    "glm",
+    "opencv"
+  ]
+}
